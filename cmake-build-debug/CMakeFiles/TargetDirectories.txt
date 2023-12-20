@@ -1,0 +1,3 @@
+C:/all/CLionProjects/praca25/cmake-build-debug/CMakeFiles/praca25.dir
+C:/all/CLionProjects/praca25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/all/CLionProjects/praca25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
